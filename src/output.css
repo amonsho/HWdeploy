@@ -957,6 +957,10 @@ video {
     gap: 1.5rem;
   }
 
+  .mob\:gap-5 {
+    gap: 1.25rem;
+  }
+
   .mob\:p-0 {
     padding: 0px;
   }
