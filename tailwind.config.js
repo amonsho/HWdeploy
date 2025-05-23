@@ -3,6 +3,10 @@ module.exports = {
   content: ["./src/**/*.{html,js}", "./index.html"],
   theme: {
     extend: {},
+     screens: {
+      mob:{max: '510px'}
+      // @media(max-width:510px) {}
+    }
   },
   plugins: [],
 }
