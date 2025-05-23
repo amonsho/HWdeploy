@@ -586,6 +586,10 @@ video {
   margin: auto;
 }
 
+.m-3 {
+  margin: 0.75rem;
+}
+
 .mt-12 {
   margin-top: 3rem;
 }
@@ -955,6 +959,10 @@ video {
 
   .mob\:gap-6 {
     gap: 1.5rem;
+  }
+
+  .mob\:gap-5 {
+    gap: 1.25rem;
   }
 
   .mob\:p-0 {
