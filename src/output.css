@@ -553,3 +553,7 @@ video {
 [hidden]:where(:not([hidden="until-found"])) {
   display: none;
 }
+
+.w-9 {
+  width: 2.25rem;
+}
