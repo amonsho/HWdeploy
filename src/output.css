@@ -602,6 +602,22 @@ video {
   margin-top: 5rem;
 }
 
+.mt-44 {
+  margin-top: 11rem;
+}
+
+.mt-48 {
+  margin-top: 12rem;
+}
+
+.mt-40 {
+  margin-top: 10rem;
+}
+
+.mt-3 {
+  margin-top: 0.75rem;
+}
+
 .flex {
   display: flex;
 }
@@ -644,6 +660,10 @@ video {
 
 .w-\[283px\] {
   width: 283px;
+}
+
+.w-\[360px\] {
+  width: 360px;
 }
 
 .max-w-\[1200px\] {
@@ -716,6 +736,22 @@ video {
 
 .gap-4 {
   gap: 1rem;
+}
+
+.gap-7 {
+  gap: 1.75rem;
+}
+
+.gap-10 {
+  gap: 2.5rem;
+}
+
+.gap-1 {
+  gap: 0.25rem;
+}
+
+.gap-16 {
+  gap: 4rem;
 }
 
 .rounded-\[20px\] {
@@ -847,6 +883,18 @@ video {
 
 .pb-6 {
   padding-bottom: 1.5rem;
+}
+
+.pb-9 {
+  padding-bottom: 2.25rem;
+}
+
+.pb-1 {
+  padding-bottom: 0.25rem;
+}
+
+.pb-14 {
+  padding-bottom: 3.5rem;
 }
 
 .text-center {
